@@ -1,3 +1,5 @@
+# Width and Height of window or pixels are not important
+# Run speed at max
 
 .text
 lui $a0, 0x1001
