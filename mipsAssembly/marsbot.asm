@@ -1,5 +1,6 @@
 # Use tool Mars Bot and set Run speed 30 inst/sec
 
+.text
 lui $s0, 0xffff
 ori $s0, $s0, 0x8010
 lui $s1, 0xffff
