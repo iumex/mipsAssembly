@@ -1,6 +1,6 @@
 # Use the tool Bitmap display
 # Unit Width and Height: 32, Display Width: 256, Display Height: 256
-
+# Run speed ad max
 
 lui $s0, 0x1001
 ori $s0, $s0, 0x0000
